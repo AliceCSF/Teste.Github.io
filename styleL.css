@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+        
+  .Páginadelogin{
+    color: rgb(255, 255, 255);
+  }
+
+  .login { color: rgb(255, 255, 255);}
+
+  .coverback {
+    background-image: url("image.png"); 
+    background-size: cover;
+   background-repeat: no-repeat;
+  }
+  footer { 
+    background-color: rgb(6, 121, 132);
+
+  }
