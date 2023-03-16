@@ -19,7 +19,7 @@ body {
   .login { color: rgb(255, 255, 255);}
 
   .coverback {
-    background-image: url("image.png"); 
+    background-image: url("https://live.staticflickr.com/65535/52751108846_90acfc6df7_m.jpg"); 
     background-size: cover;
    background-repeat: no-repeat;
   }
